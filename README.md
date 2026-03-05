@@ -1,48 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently working on mastering Data Structures & Algorithms while building exciting full-stack projects.<br>
-🤝 I’m looking to collaborate on open-source projects, hackathons, and anything that mixes creativity with problem-solving.<br>
-👐 I’m looking for help with exploring advanced system design concepts and writing clean, scalable code.<br>
-🌱 I’m currently learning competitive programming, React + Node.js, and diving deeper into algorithmic optimization.<br>
-💬 Ask me about DSA tricks, project ideas, or how to survive debugging at 3 AM.<br>
-⚡ Fun fact: I treat debugging like a puzzle game — frustrating but fun once you solve it!
+<h1 align="center">Hi 👋, I'm Asif</h1>
+<h3 align="center">Full Stack Developer | DSA Enthusiast | Open Source Learner</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CgpfW2x6) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masif15881@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Asif-hash786&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔭 I’m currently working on **Data Structures & Algorithms and Full Stack Projects**  
+🤝 I’m looking to collaborate on **Open Source & Hackathons**  
+🌱 I’m currently learning **React, Node.js and System Design**  
+💬 Ask me about **DSA, JavaScript, React, Debugging Tricks**  
+⚡ Fun fact: **Debugging feels like solving a puzzle game 🎮**
 
-<!--
-**Asif-hash786/Asif-hash786** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Asif-hash786/Asif-hash786/main/assets/space-shooter.gif" />
+<a href="mailto:masif15881@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://discord.gg/CgpfW2x6"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://github.com/Asif-hash786"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nextjs,nodejs,python,git,linux&perline=6" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Asif-hash786&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asif-hash786&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-hash786&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# 🚀 Visitor Count
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Asif-hash786&icon=0&color=6" />
+</p>
+
+---
+
+# 🎮 Fun Section
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Asif-hash786/Asif-hash786/main/assets/space-shooter.gif" width="600">
 </p>
