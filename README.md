@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# My GitHub Activity Game
-
 <p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
