@@ -6,14 +6,6 @@
 💬 Ask me about DSA tricks, project ideas, or how to survive debugging at 3 AM.<br>
 ⚡ Fun fact: I treat debugging like a puzzle game — frustrating but fun once you solve it!
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Asif-hash786/Asif-hash786/main/assets/space-shooter.gif" />
-</p>
-
----
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CgpfW2x6) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masif15881@gmail.com) 
@@ -50,3 +42,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asif-hash786/Asif-hash786/main/assets/space-shooter.gif" />
+</p>
+
+---
