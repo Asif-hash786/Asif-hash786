@@ -42,10 +42,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Asif-hash786/Asif-hash786/main/assets/space-shooter.gif" />
 </p>
-
----
