@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-  <img src="assets/space-shooter.gif" />
+  <img src="https://raw.githubusercontent.com/Asif-hash786/Asif-hash786/main/assets/space-shooter.gif" />
 </p>
