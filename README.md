@@ -13,11 +13,15 @@
 ## 💻 Tech Stack
 
 <p display="flex" align="center">
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4348a785-03f5-44db-aeaf-7d2ac2e54092" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/df442b69-923e-430b-a2d8-6e19c1a82028" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5f67ace9-c5da-4136-b786-9b843c032e14" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/47630c7d-b877-4a33-8219-cc06ab484481" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/750881bd-d9c1-4421-956a-fb1b3c43d77a" />
+<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/4348a785-03f5-44db-aeaf-7d2ac2e54092" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/df442b69-923e-430b-a2d8-6e19c1a82028" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/5f67ace9-c5da-4136-b786-9b843c032e14" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/47630c7d-b877-4a33-8219-cc06ab484481" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/750881bd-d9c1-4421-956a-fb1b3c43d77a" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/ca241c94-221b-4d58-afc2-d6d03a92de4b" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/57ac4ad0-9c19-480d-b726-a893d73bc7c8" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/62a06e0b-45d0-4e01-becb-12839c3847f3" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/0378e77f-bd58-4e30-b271-90d1b7ef392b" />
 </p>
 
 ## 🌐 Connect With Me
