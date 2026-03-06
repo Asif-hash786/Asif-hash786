@@ -10,8 +10,7 @@
 💬 Ask me about **DSA, JavaScript, React, Debugging Tricks**  
 ⚡ Fun fact: **Debugging feels like solving a puzzle game 🎮**
 
-## 💻 Tech Stack
-
+## 💻 Tech Skills
 <p display="flex" align="center">
 <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/4348a785-03f5-44db-aeaf-7d2ac2e54092" />
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/df442b69-923e-430b-a2d8-6e19c1a82028" />
@@ -22,14 +21,18 @@
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/57ac4ad0-9c19-480d-b726-a893d73bc7c8" />
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/62a06e0b-45d0-4e01-becb-12839c3847f3" />
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/0378e77f-bd58-4e30-b271-90d1b7ef392b" />
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
-![icons8-java](https://github.com/user-attachments/assets/0031aea2-7136-40b9-96e1-db56fd347973)
-
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/a82afb30-3b06-4db6-84ea-a6dcccf3273f" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/0f44b923-5eb5-4206-a253-3893b25deea7" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/3a1e08fd-f383-4448-b602-c7b7409524cd" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/4f8446ee-e712-424e-b469-69dadc6fddce" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/477b7a4c-032e-42a6-a840-8e8d9a332de5" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/3c620b98-4eb8-493d-8add-a71c6a315c70" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/5253de48-9cad-4a99-8aa7-3aa594afdc20" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/b6f71b5c-23ec-48c1-801b-ccba6486d401" />
 </p>
 
 ## 🌐 Connect With Me
-
-<p align="center">
+<p>
 <a href="mailto:masif15881@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://discord.gg/CgpfW2x6"><img src="https://skillicons.dev/icons?i=discord" /></a>
 <a href="https://github.com/Asif-hash786"><img src="https://skillicons.dev/icons?i=github" /></a>
