@@ -35,3 +35,7 @@
 <a href="https://discord.gg/CgpfW2x6"><img src="https://skillicons.dev/icons?i=discord" /></a>
 <a href="https://github.com/Asif-hash786"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
+
+<p align="center">
+<img src="assets/space-shooter.gif" />
+</p>
