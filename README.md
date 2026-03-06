@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single+Ink&weight=500&duration=4000&pause=1000&color=1837F7&background=C834CE00&width=450&height=80&lines=Hii%2C+Asif+There;Full+Stack+Developer;Open+Source+contributor;Competitive+Programmer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single+Ink&weight=500&duration=4000&pause=1000&color=1837F7&background=C834CE00&center=true&vCenter=true&width=450&height=115&lines=Hii%2C+Asif+There;Full+Stack+Developer;Open+Source+contributor;Competitive+Programmer" alt="Typing SVG" /></a>
 
 ## 💫 About Me
 
