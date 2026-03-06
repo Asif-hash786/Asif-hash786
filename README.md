@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Asif-hash786/Asif-hash786/main/assets/space-shooter.gif" width="full">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4348a785-03f5-44db-aeaf-7d2ac2e54092" />
 </p>
 
 ## 🌐 Connect With Me
