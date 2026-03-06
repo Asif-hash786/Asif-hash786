@@ -30,11 +30,11 @@
 </p>
 
 ## 🌐 Connect With Me
-<p>
+<p disply="flex">
 <a href="mailto:masif15881@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://discord.gg/CgpfW2x6"><img src="https://skillicons.dev/icons?i=discord" /></a>
 <a href="https://github.com/Asif-hash786"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://x.com/MdAsif2088962"><img src="https://github.com/user-attachments/assets/209ebc00-a05c-4ef3-a1f0-5dd1d25bb073" /></a>
+<a href="https://x.com/MdAsif2088962"><img width="65" height="65" src="https://github.com/user-attachments/assets/209ebc00-a05c-4ef3-a1f0-5dd1d25bb073" /></a>
 </p>
 
 
