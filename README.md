@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Always+Learning+New+Things" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single+Ink&weight=500&duration=4000&pause=1000&color=1837F7&background=C834CE00&width=450&height=80&lines=Hii%2C+Asif+There;Full+Stack+Developer;Open+Source+contributor;Competitive+Programmer" alt="Typing SVG" /></a>
 
 ## 💫 About Me
 
@@ -11,7 +9,7 @@
 ⚡ Fun fact: **Debugging feels like solving a puzzle game 🎮**
 
 ## 💻 Tech Skills
-<p display="flex" align="center">
+<p display="flex" align="center" gap="10px">
 <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/4348a785-03f5-44db-aeaf-7d2ac2e54092" />
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/df442b69-923e-430b-a2d8-6e19c1a82028" />
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/5f67ace9-c5da-4136-b786-9b843c032e14" />
