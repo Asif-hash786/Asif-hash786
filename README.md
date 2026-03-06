@@ -12,12 +12,12 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nextjs,nodejs,python,git,linux&perline=6" />
-</p>
-
-<p align="center">
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4348a785-03f5-44db-aeaf-7d2ac2e54092" />
+<p display="flex" align="center">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4348a785-03f5-44db-aeaf-7d2ac2e54092" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/df442b69-923e-430b-a2d8-6e19c1a82028" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5f67ace9-c5da-4136-b786-9b843c032e14" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/47630c7d-b877-4a33-8219-cc06ab484481" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/750881bd-d9c1-4421-956a-fb1b3c43d77a" />
 </p>
 
 ## 🌐 Connect With Me
