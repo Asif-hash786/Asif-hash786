@@ -9,7 +9,7 @@
 ⚡ Fun fact: **Debugging feels like solving a puzzle game 🎮**
 
 ## 💻 Tech Skills
-<p display="flex" align="center" gap="10px">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; line-height:40px;""
 <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/4348a785-03f5-44db-aeaf-7d2ac2e54092" />
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/df442b69-923e-430b-a2d8-6e19c1a82028" />
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/5f67ace9-c5da-4136-b786-9b843c032e14" />
