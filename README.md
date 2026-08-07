@@ -5,7 +5,7 @@
 🔭 I’m currently working on **Data Structures & Algorithms and Full Stack Projects**  
 🤝 I’m looking to collaborate on **Open Source & Hackathons**  
 🌱 I’m currently learning **React, Node.js and System Design**   
-⚡ Fun fact: **Debugging feels like solving a puzzle game**
+⚡ Fun fact: **Debugging feels like solving a puzzle game 🎮**
 
 ## 🌐 Connect With Me
 <p disply="flex">
