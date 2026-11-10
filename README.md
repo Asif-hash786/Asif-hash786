@@ -8,72 +8,31 @@
 ```bash
 asif@dev:~$ whoami
 
-Asif — Full-Stack Developer & Problem Solver.
-Turning ideas into applications, and problems into solutions.
-Currently exploring backend engineering, system design, and DSA.
+Asif — Full-Stack Developer | Problem Solver
+Building ideas into applications. Learning, building, and breaking things along the way.
 ```
 
 ```yaml
 # tech-stack.yml
 
-frontend:
-  - React
-  - Next.js
-  - TypeScript
-  - JavaScript
-  - HTML
-  - CSS
-  - Tailwind CSS
-
-backend:
-  - Node.js
-  - Express.js
-  - Prisma
-  - REST APIs
-
-database:
-  - MongoDB
-  - PostgreSQL
-
-programming:
-  - C
-  - C++
-  - Java
-  - Python
-
-tools:
-  - VS Code
-  - Git
-  - GitHub
-  - Postman
-
-currently_learning:
-  - Data Structures & Algorithms
-  - Competitive Programming
-  - Backend Development
-  - System Design
+frontend:      React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+backend:       Node.js · Express.js · Prisma · REST APIs
+database:      MongoDB · PostgreSQL · MySQL
+languages:     C · C++ · Java · Python
+tools:         VS Code · Git · GitHub · Postman
+currently:     DSA · Competitive Programming · Backend Engineering
 ```
 
 ```bash
 asif@dev:~$ ls ~/projects
 
-BookMyStay/
-Job-Portal/
-More coming soon...
+BookMyStay/    Job-Portal/    MoreComingSoon/
 ```
 
 ```bash
-asif@dev:~$ echo $MINDSET
+asif@dev:~$ echo $PHILOSOPHY
 
-"Code with purpose.
-Debug with patience.
-Build beyond the ordinary."
-```
-
-```bash
-asif@dev:~$ echo $CURRENT_GOAL
-
-"From solving problems to engineering real-world solutions."
+"Think deeply. Code efficiently. Build relentlessly."
 ```
 
 ```bash
