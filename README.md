@@ -5,7 +5,3 @@
 </p> -->
 #### Hi! I'm Asif
 ***I build things for the web.***
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asif-hash786&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
