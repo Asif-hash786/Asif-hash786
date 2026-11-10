@@ -32,7 +32,7 @@ BookMyStay/    Job-Portal/
 ```bash
 asif@dev:~$ echo $PHILOSOPHY
 
-"It's a privilege to do hard things. Embrace the struggle. Earn the growth."
+"It's a privilege to do hard things."
 ```
 
 ```bash
