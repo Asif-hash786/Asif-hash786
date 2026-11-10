@@ -8,8 +8,8 @@
 ```bash
 asif@dev:~$ whoami
 
-Asif — Full-Stack Developer | Problem Solver
-Building ideas into applications. Learning, building, and breaking things along the way.
+Asif — Full-Stack Enginner/Developer
+I build things for the web
 ```
 
 ```yaml
@@ -26,13 +26,13 @@ currently:     DSA · Competitive Programming · Backend Engineering
 ```bash
 asif@dev:~$ ls ~/projects
 
-BookMyStay/    Job-Portal/    MoreComingSoon/
+BookMyStay/    Job-Portal/    
 ```
 
 ```bash
 asif@dev:~$ echo $PHILOSOPHY
 
-"Think deeply. Code efficiently. Build relentlessly."
+"It's a privilege to do hard things. Embrace the struggle. Earn the growth."
 ```
 
 ```bash
